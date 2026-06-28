@@ -66,4 +66,17 @@ Antigravity
 - ✅ Initial Risk Calculation Added
 - ✅ Clean Compile (0 Errors, 0 Warnings)
 
+## Session 3
+
+✅ Logger Module Created
+
+✅ Money Manager Created
+
+✅ Auto Lot Calculation
+
+✅ Dashboard Information
+
+✅ Modular Architecture
+
+✅ Clean Compile (0 Errors, 0 Warnings)
 🚧 Under Development
